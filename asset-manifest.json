@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Start-React-App/static/css/main.48a667c8.css",
+    "main.js": "/Start-React-App/static/js/main.543827af.js",
+    "static/media/fa-solid-900.ttf": "/Start-React-App/static/media/fa-solid-900.79da213423ac0def2058.ttf",
+    "static/media/fa-brands-400.ttf": "/Start-React-App/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
+    "static/media/fa-solid-900.woff2": "/Start-React-App/static/media/fa-solid-900.4896d4b04430cc3dfb06.woff2",
+    "static/media/fa-brands-400.woff2": "/Start-React-App/static/media/fa-brands-400.f77bcc98bb7468c8b15a.woff2",
+    "static/media/fa-regular-400.ttf": "/Start-React-App/static/media/fa-regular-400.15d98c18221c8bcb2334.ttf",
+    "static/media/cabin.png": "/Start-React-App/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/Start-React-App/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/Start-React-App/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/submarine.png": "/Start-React-App/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/fa-regular-400.woff2": "/Start-React-App/static/media/fa-regular-400.d79c2ec96ab9ff1161a2.woff2",
+    "static/media/safe.png": "/Start-React-App/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/Start-React-App/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/Start-React-App/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/Start-React-App/static/media/fa-v4compatibility.52eba2c567c521b8d58a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Start-React-App/static/media/fa-v4compatibility.3d503f89ccaf1b224aa5.woff2",
+    "index.html": "/Start-React-App/index.html",
+    "main.48a667c8.css.map": "/Start-React-App/static/css/main.48a667c8.css.map",
+    "main.543827af.js.map": "/Start-React-App/static/js/main.543827af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a667c8.css",
+    "static/js/main.543827af.js"
+  ]
+}
