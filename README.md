@@ -1,5 +1,7 @@
 # Start-React-App
 
-this is my first React application and this repository hosts the live version 
+This is my first React application and this repository hosts the production version.
 
-I have used React Class Componet for every component and I used the Bootstrap 5 library to make it easier for building the navbar and modal and used font awesome to use some icons 
+This is a simple application that applies React basics such as Class component  
+
+Here are the libraries I used in this app Bootstrap 5 library to make it easier for building the navbar and modal and used font awesome to use some icons 
